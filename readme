@@ -1,35 +1,44 @@
-# 🥁 Project - Interactive Drum Kit
+# 🥁 Interactive Drum Kit
 
-This project consists of an interactive drum kit built with HTML, CSS, and JavaScript.  
-The application allows sound playback through clicks on visual buttons or keyboard navigation,  
-using modern web development practices.
-
----
-
-## 📚 Learnings
-
-### 0. Functions
-- Created JavaScript functions to play sounds stored in `<audio>` elements in the HTML.
-
-### 1. Interactivity
-- Implemented buttons using HTML and CSS that play the corresponding sound when clicked.
-
-### 2. Keyboard Navigation
-- Accessibility feature implemented: sound playback when pressing `Enter` or `Space` on a focused button.
-
-### 3. Optimized Code
-- Reduced code repetition through function reuse.
-- Improved organization and maintainability of the code.
+Interactive Frontend project that simulates a virtual drum kit using HTML, CSS, and JavaScript.  
+Users can play different drum sounds by clicking on visual buttons or using keyboard keys, applying modern web development techniques.
 
 ---
 
-## ⚙️ Technologies Used
+🎯 Objectives & Learnings
 
-### 1. JavaScript Functions
-- Used functions to encapsulate the logic for sound playback and interaction.
+1. Create reusable JavaScript functions to handle audio playback  
+2. Enable interactivity through clickable visual elements  
+3. Add keyboard accessibility with `Enter` and `Space` keys  
+4. Optimize code with clean structure and reduced repetition  
 
-### 2. DOM Manipulation
-- Accessed and modified HTML elements using `document.querySelector` and `addEventListener`.
+---
 
-### 3. Control Flow
-- Applied loops and conditionals (`for`, `if`) to handle logic across multiple elements.
+🛠️ Technologies
+
+🔹 Frontend  
+- **Languages:** HTML, CSS, JavaScript  
+- **Editor:** VS Code  
+
+🔹 JavaScript Features  
+- Functions for sound playback logic  
+- DOM manipulation with `querySelector` and `addEventListener`  
+- Control flow using `if` and `for` statements  
+
+---
+
+🔧 Tools and Practices
+
+- [x] **VS Code** – code editor  
+- [x] **Git & GitHub** – version control
+
+---
+
+💻 Project Features
+
+✅ Clickable Drum Buttons  
+🎹 Keyboard Support (Enter/Space)  
+🔁 Code Reuse and Optimization  
+🔊 Real-time Audio Feedback  
+
+---
